@@ -1,0 +1,29 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.row{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.wrap-wrap{
+    flex-wrap: wrap;
+}
+.col{
+    border: solid 1px red;
+    min-height: 40px;
+}
+.header-top{
+    background-color: #169FCC;
+    min-height: 80px;
+}
+.nav-section{
+    background-color: #169FCC;
+    min-height: 80px;
+}
+.academic{
+    background-color: #169FCC;
+    min-height: 500px;
+}
